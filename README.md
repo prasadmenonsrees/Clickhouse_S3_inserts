@@ -2,6 +2,8 @@
 # Purpose of the repo
 Insert data from S3 to ClickHouse. 
 
+Medium Link https://manojfim.medium.com/s3-to-clickhouse-e4f97e338c71
+
 # Problem statement
 ClickHouse doesn't have native support same like Redshift copy command to insert data from AWS S3 to ClickHouse. 
 
